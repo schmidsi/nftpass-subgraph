@@ -8,6 +8,7 @@ dataSources:
     source:
       address: "0x48647b5E64f4ECb7F9E2BA11461Cc2fA4438d816"
       abi: NFTPass
+      startBlock: 9520513
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
